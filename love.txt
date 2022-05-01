@@ -1,1 +1,3 @@
 print ("love")
+print("love me")
+print("love only me")
